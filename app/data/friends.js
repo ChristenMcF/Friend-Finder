@@ -1,0 +1,52 @@
+var friends = [
+  {
+      "name":"Tyler",
+      "photo":"..\images\Tyler.jpg",
+      "scores":[
+         5,
+         5,
+         4,
+         3,
+         1,
+         1,
+         5,
+         5,
+         5,
+         5
+          ]
+      },
+  {
+  "name":"Marla",
+  "photo":"..\images\Marla.jpg",
+  "scores":[
+     5,
+     1,
+     2,
+     2,
+     3,
+     3,
+     2,
+     2,
+     5,
+     1
+      ]
+},
+{
+  "name":"Jack",
+  "photo":"..\images\Jack.jpg",
+  "scores":[
+     2,
+     3,
+     1,
+     3,
+     2,
+     2,
+     2,
+     4,
+     3,
+     1
+      ]
+},
+]
+
+module.exports = friends;

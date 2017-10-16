@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "\"Express and Node based app to find new friends based on personality questions.\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristenMcF/Friend-Finder.git"
+  },
+  "author": "Christen McFarland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristenMcF/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/ChristenMcF/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
